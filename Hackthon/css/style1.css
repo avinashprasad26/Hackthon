@@ -1,0 +1,128 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .nav-item{
+    color: #fff;
+    font-size: 1em;
+  }
+  
+  .carousel-item {
+    width: 100%;
+    height: 650px;
+  }
+  
+  .container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  
+  .inner {
+    overflow: hidden;
+  }
+  .inner img{
+    transition: all 1.5s ease;
+  }
+  
+  .inner:hover img{
+    transform: scale(1.5);
+  }
+  
+  h1 {
+    color: #fff;
+    font-family: 'Montserrat Bold', sans-serif;
+  }
+  
+  .card-img-top{
+    height: 300px;
+  }
+  
+  .learn_para{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+  }
+  
+  .card{
+    margin-left: 60px;
+  }
+  
+  .login{
+    margin-bottom: 60px;
+    margin-top: 80px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+  }
+  
+  .middle_container{
+  margin: 50px 0;
+  }
+  
+ 
+  h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+  }
+  
+
+  
+  .get{
+    margin-top: 30px;
+    color: #11999E;
+    text-align: center;
+  }
+  
+ 
+  
+  .contact-message{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 25px;
+  }
+  
+  .buton {
+    background: #30E3CB;
+    margin-left: 650px;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .buton:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  
+  .bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    margin-top: 100px;
+  }
+  
+  .footer-link {
+    color: #11999E;
+    text-align: center;
+  }
+  
+
+  
+
+  
